@@ -1,0 +1,30 @@
+body{
+     width: auto;
+     margin: auto;
+     color: #000000
+     padding: 20px;
+     background-color:#FFFFFF;
+     font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+     font size: 16px;
+     border: 1px solid #669966;
+}
+
+
+section{
+	width: 45%;
+	float: left;
+	margin: 0.5em;
+	height: 400px;
+	padding: 15px;
+	overflow: auto;
+}	
+footer{
+	clear: both;
+	border-width:10px;
+	border-radius:10px;
+	padding:15px;
+}
+#h1text{
+		text-align:left;
+		margin-left:50px;
+}	
